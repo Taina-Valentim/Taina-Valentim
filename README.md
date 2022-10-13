@@ -1,10 +1,13 @@
 ## Bem-vindo(a) ao perfil de Tainá Valentim 😁
 
  <div>
-   <a href="https://github.com/taina-valentim">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taina-valentim&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taina-valentim&layout=compact&langs_count=6&theme=radical"/>
-   </a>
+   <a href="https://github.com/taina-valentim/github-readme-stats">
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taina-valentim&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    </a>
+
+    <a href="https://github.com/taina-valentim/convoychat">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taina-valentim&layout=compact&langs_count=6&theme=radical"/>
+    </a>
 </div>
 <div style="display: inline_block"><br>
   <h4> Back-end </h4>
