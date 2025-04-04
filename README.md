@@ -215,6 +215,6 @@ Amo a visão holística de construir sistemas completos: desde a interface que e
 
 ### Ah,dê uma olhada no meu portifólio também!
 
-[Acesse aqui o meu portifólio](https://taina-valentim.github.io/Portifolio/)
+<br>
 
-[![Acesse aqui o meu portifólio](https://img.shields.io/badge/Acesse_aqui_o_meu_portif%C3%B3lio-ff006f?style=for-the-badge&logoColor=black&labelColor=black&color=black)](https://taina-valentim.github.io/Portifolio/)
+[![Acesse aqui o meu portifólio](https://img.shields.io/badge/Acesse_aqui_o_meu_portif%C3%B3lio-ff006f?style=for-the-badge)](https://taina-valentim.github.io/Portifolio/)
