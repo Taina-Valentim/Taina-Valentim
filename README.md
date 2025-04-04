@@ -9,13 +9,16 @@
 </div>
 <br>
 <br>
+      
 ## 🚀 Sobre mim
 
 Sou uma Desenvolvedora FullStack Junior, com formação em Análise e Desenvolvimento de Sistemas pelo IFSP e experiência de 2 anos na área de tecnolgia!
 
 Minha jornada começou na precisão da mecatrônica e na lógica prática da elétrica, campos que me ensinaram a decompor problemas complexos em partes executáveis – habilidade que hoje aplico no desenvolvimento de software.
+
 <br>
 <br>
+
 No meu dia a dia, você me encontra:
 
 ✅ Construindo projetos end-to-end (do front-end ao back-end).
@@ -25,8 +28,10 @@ No meu dia a dia, você me encontra:
 ✅ Compartilhando aprendizados no GitHub, onde mantenho projetos como jogos web, aplicações interativas e APIs simples.
 
 ✅ Colaborando em ambientes que valorizam a aprendizagem contínua e a entrega de resultados mensuráveis.
+
 <br>
 <br>
+
 Por que desenvolvimento full-stack?
 
 Amo a visão holística de construir sistemas completos: desde a interface que encanta o usuário até a engine que garante desempenho e segurança.
@@ -34,8 +39,10 @@ Amo a visão holística de construir sistemas completos: desde a interface que e
 #### Minha meta é dominar tecnologias que me permitam criar soluções tão robustas quanto flexíveis!
 
 [Curiosidade]: Minha experiência com hardware me dá uma vantagem única na hora de otimizar recursos e entender fluxos de dados!
+
 <br>
 <br>
+
 #### 👩‍💻 Trabalho atualmente como Desenvolvedora Full-Stack Freelancer (PJ)
 
 #### 🧠 Estou aprendendo...
@@ -43,12 +50,18 @@ Amo a visão holística de construir sistemas completos: desde a interface que e
 #### 👯‍♀️ Procuro colaborar em desafios full-stack (front-end criativo + back-end eficiente) e workshops/mentoria para iniciantes em programação
 
 #### 💬 Me pergunte sobre a minha jornada da mecatrônica para o desenvolvimento web e ideação de projetos: do conceito à execução
+
 <br>
 <br>
+
 ## 📈 Habilidades
+
 <br>
+
   ### 🎨 Front-End & Design
+  
 <br>
+
   [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/default.asp)
 
   [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/default.asp)
@@ -66,9 +79,13 @@ Amo a visão holística de construir sistemas completos: desde a interface que e
   [![Canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
 
   [![Windows Forms](https://img.shields.io/badge/windows_forms-7248B9?style=for-the-badge&logo=googleforms&logoColor=white)](https://learn.microsoft.com/pt-br/dotnet/desktop/winforms/?view=netdesktop-9.0)
+
 <br>
+
   ### 🛠 Back-End & Linguagens
+  
 <br>
+
   [![C](https://img.shields.io/badge/Linguagem_C-659ad3?style=for-the-badge&logo=C%2B%2B&logoColor=white)](https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170)
   
   [![C++](https://img.shields.io/badge/Linguagem_C%2B%2B-03599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://learn.microsoft.com/pt-br/cpp/cpp/?view=msvc-170p)
@@ -90,9 +107,13 @@ Amo a visão holística de construir sistemas completos: desde a interface que e
   [![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.w3schools.com/django/index.php)
 
   [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/pt-br/)
+  
   <br>
+  
   ### 🗄 Banco de Dados & ETL
+  
 <br>
+
   [![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.w3schools.com/mysql/default.asp)
 
   [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white)](https://www.sqlite.org/docs.html)
@@ -106,9 +127,13 @@ Amo a visão holística de construir sistemas completos: desde a interface que e
   [![Sequelize](https://img.shields.io/badge/sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)](https://sequelize.org/)
 
   [![Talend Studio](https://img.shields.io/badge/Talend_studio-FF6D70?style=for-the-badge&logo=Talend&logoColor=white)](https://www.talend.com/products/talend-open-studio/)
+
 <br>
+
   ### 📡 APIs & Arquitetura
+
 <br>
+
   [![APIs RESTful](https://img.shields.io/badge/api_restful-FFFFFF?style=for-the-badge&logo=podcastindex&logoColor=black)](https://aws.amazon.com/pt/what-is/restful-api/)
 
   [![N-Tier Architecture](https://img.shields.io/badge/N--tier_architeture-666666?style=for-the-badge&logo=internetarchive&logoColor=white)](https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/n-tier)
@@ -116,9 +141,13 @@ Amo a visão holística de construir sistemas completos: desde a interface que e
   [![Unit of Work](https://img.shields.io/badge/unit_of_work-280459?style=for-the-badge&logo=devbox&logoColor=white)](https://www.devmedia.com.br/unit-of-work-o-padrao-de-unidade-de-trabalho-net/25811)
 
   [![Repository](https://img.shields.io/badge/Repository-A81D33?style=for-the-badge&logo=devbox&logoColor=white)](https://blog.balta.io/repository-pattern-em-aplicacoes-net/)
+
 <br>
+
   ### 🤖 Automação & Testes
+
 <br>
+
   [![RPA](https://img.shields.io/badge/RPA-05054B?style=for-the-badge&logo=probot&logoColor=white)](https://www.uipath.com/rpa/robotic-process-automation)
 
   [![Selenium](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/pt-br/documentation/overview/)
@@ -130,9 +159,13 @@ Amo a visão holística de construir sistemas completos: desde a interface que e
   [![AAA](https://img.shields.io/badge/AAA_(Arrange_Act_%26_Assert)-41454A?style=for-the-badge&logo=academia&logoColor=white)](https://medium.com/@marcio.pcmonzon/testes-unit%C3%A1rios-do-mock-ao-arrange-act-assert-2c5f29bd304c)
 
   [![AutoHotKey](https://img.shields.io/badge/autohotkey-334455?style=for-the-badge&logo=autohotkey&logoColor=white)](https://www.autohotkey.com/docs/)
+
 <br>
+
   ### ☁ DevOps & Cloud
+
 <br>
+
   [![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/)
 
   [![AWS Cloud](https://img.shields.io/badge/aws_cloud-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://docs.aws.amazon.com/pt_br/)
@@ -140,7 +173,9 @@ Amo a visão holística de construir sistemas completos: desde a interface que e
   [![Heroku](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://devcenter.heroku.com/categories/reference)
   <br>
   ### 🔧 Ferramentas & Ambientes
+
 <br>
+
   [![PyCharm](https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/help/pycharm/getting-started.html)
 
   [![VS Code](https://img.shields.io/badge/vs_code-23a3ea?style=for-the-badge&logo=keycloak&logoColor=white)](https://code.visualstudio.com/docs)
@@ -158,13 +193,17 @@ Amo a visão holística de construir sistemas completos: desde a interface que e
   [![GitLab](https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://docs.gitlab.com/)
 
   [![Jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/br/software/jira/guides/getting-started/introduction)
+
 <br>
 <br>
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 
 #### 📫Entrar em contato comigo via:
+
 <br>
+
 📧 E-mail: taina.valentim@example.com
 
 💻 Linkedin: [Tainá Valentim](https://www.linkedin.com/in/taina-valentim-de-lima/")
@@ -173,6 +212,7 @@ Amo a visão holística de construir sistemas completos: desde a interface que e
 
 <br>
 <br>
+
 ## Ah,dê uma olhada no meu portifólio também!
 
 [Acesse aqui o meu portifólio](https://taina-valentim.github.io/Portifolio/)
