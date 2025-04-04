@@ -204,7 +204,7 @@ Amo a visão holística de construir sistemas completos: desde a interface que e
 
 <br>
 
-📧 E-mail: taina.valentim@example.com
+📧 E-mail: taina.valentim.lima@gmail.com
 
 💻 Linkedin: [Tainá Valentim](https://www.linkedin.com/in/taina-valentim-de-lima/")
 
@@ -213,6 +213,6 @@ Amo a visão holística de construir sistemas completos: desde a interface que e
 <br>
 <br>
 
-## Ah,dê uma olhada no meu portifólio também!
+### Ah,dê uma olhada no meu portifólio também!
 
 [Acesse aqui o meu portifólio](https://taina-valentim.github.io/Portifolio/)
